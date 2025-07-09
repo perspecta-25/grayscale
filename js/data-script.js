@@ -5,6 +5,7 @@ function getId() {
 }
 
 $(document).ready(function () {
+
     $('#getDataBtn').click(function () {
         const id = getId();
         $.ajax({
@@ -14,7 +15,6 @@ $(document).ready(function () {
             data: {                        // Data sent to server
             },  
             success: function(){
-                console.log(1);
             }
         });
         
