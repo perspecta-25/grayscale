@@ -45,7 +45,6 @@ include 'common/header_end.php';
                     <div class="col-auto"><button class="btn btn-primary" id="submitButton" type="submit">Send!</button></div>
 
                 </form>
-                <input id = "getDataBtn" type="button" value="click me" />
             </div>
         </div>
     </div>
