@@ -11,8 +11,8 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item"><a class="nav-link" href="../grayscale/about.php">About</a></li>
-                        <li class="nav-item"><a class="nav-link" href="../projects.php">Projects</a></li>
-                        <li class="nav-item"><a class="nav-link" href="../contact.php">Contact</a></li>
+                        <li class="nav-item"><a class="nav-link" href="../grayscale/projects.php">Projects</a></li>
+                        <li class="nav-item"><a class="nav-link" href="../grayscale/contact.php">Contact</a></li>
                     </ul>
                 </div>
             </div>
