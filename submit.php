@@ -15,9 +15,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
 
 // Database configuration
 $host = 'localhost';
-$dbname = 'test_base';
-$user = 'root';
-$pass = '';
+$dbname = 'grayscale_db';
+$user = 'grayscale_u';
+$pass = '9dSCEu3W16tJTDT';
 
 // Function to send JSON response
 function sendResponse($success, $message, $data = null, $statusCode = 200) {
