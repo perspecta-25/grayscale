@@ -10,7 +10,7 @@ $user = 'grayscale_u';
 $pass = '9dSCEu3W16tJTDT';
 
 // Connect to MySQL
-$conn = new mysqli($host, $user, $pass, $db);
+$conn = new mysqli($host, $user, $pass, $dbname);
 
 // Check connection
 if ($conn->connect_error) {
